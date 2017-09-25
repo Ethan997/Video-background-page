@@ -1,7 +1,7 @@
 # Video-background-page
 仿墨迹天气视频首页
 > 本文首发于效果预览：http://www.ethan997.com:8080/holiday_project/intro/intro.html<br/>
-> github项目地址：https://github.com/Ethan997/Video-background-page/blob/master/README.md
+> github项目地址：https://github.com/Ethan997/Video-background-page
 > 
 
 首先上效果图：
